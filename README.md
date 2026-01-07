@@ -15,4 +15,4 @@ I’m a beginner developer learning Python/AI/ML/Data Analytics. I build small p
 - Email: muskaanjaggi@gmail.com
 - LinkedIn: https://www.linkedin.com/in/muskaan-jaggi-91677b236/ 
 
-Thanks for stopping by — I’m happy to share more details on any project!
+Thanks for stopping by, I’m happy to share more details on any project!
