@@ -1,4 +1,4 @@
-# Hi — I'm Muskaan 👋
+# Hi, I'm Muskaan 👋
 
 I’m a beginner developer learning Python/AI/ML/Data Analytics. I build small projects to practice and learn new concepts. I’m applying for internships and learning to contribute to open source.
 
